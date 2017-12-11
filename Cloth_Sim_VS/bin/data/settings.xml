@@ -1,0 +1,33 @@
+<group>
+	<Link_Stiffness>0.888</Link_Stiffness>
+	<Mouse_Rad>67</Mouse_Rad>
+	<Mouse_Strength>1.35</Mouse_Strength>
+	<Damping>0.9925</Damping>
+<group/>
+<Mouse_Tear_Rad>16</Mouse_Tear_Rad>
+<Link_Tear_Distance>108.46</Link_Tear_Distance>
+<Draw_Links>1</Draw_Links>
+	<Draw_Points>1</Draw_Points>
+<Link_Tear_Dist>200</Link_Tear_Dist>
+<Allow_Tearing>0</Allow_Tearing>
+<Draw_Textured>0</Draw_Textured>
+<Gravity>1000</Gravity>
+<Solving_Iterations>1</Solving_Iterations>
+<___CLOTH_SETTINGS/>
+<Show_Stresses>0</Show_Stresses>
+<___WATER_SETTINGS/>
+	<Simulate_Water>0</Simulate_Water>
+	<Water_Level>518</Water_Level>
+	<Water_Damping>0.8</Water_Damping>
+<___PIN_MODES/>
+	<___WATER/>
+	<___FORCES/>
+	<Use_Gravity>1</Use_Gravity>
+	<Gravity_Strength>750</Gravity_Strength>
+	<Use_Wind>0</Use_Wind>
+	<Wind_Strength>350</Wind_Strength>
+	<Wind_Variation>1275</Wind_Variation>
+	<Wind_Var__Speed>0.35385</Wind_Var__Speed>
+<Wind_Scale>0.04096</Wind_Scale>
+<___TEXTURES/>
+</group>
